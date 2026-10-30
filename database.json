@@ -29,6 +29,15 @@
           "Sofia"
         ],
         "status": "todo"
+      },
+      {
+        "id": 1793391715034,
+        "title": "Conexão de um motor+IR",
+        "desc": "",
+        "members": [
+          "Luana"
+        ],
+        "status": "done"
       }
     ],
     "docs": []
