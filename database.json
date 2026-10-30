@@ -19,6 +19,16 @@
           "Luana"
         ],
         "status": "done"
+      },
+      {
+        "id": 1793384023938,
+        "title": "Refazer solda dos motores",
+        "desc": "",
+        "members": [
+          "Luana",
+          "Sofia"
+        ],
+        "status": "todo"
       }
     ],
     "docs": []
