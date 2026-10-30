@@ -1,14 +1,68 @@
 {
+ "tarefas": [],
+  "docs": [],
   "eletronica": {
-    "tasks": [],
-    "docs": []
-  },
-  "mecanica": {
-    "tasks": [],
-    "docs": []
+ "tarefas": [
+      {
+        "id": 1793315627670,
+ "título": "Fazer o circuito dos motores",
+        "desc": "",
+ "membros": [
+          "Sofia",
+          "Nicoli"
+        ],
+        "status": "todo"
+      },
+      {
+        "id": 1793319878086,
+ "título": "Soldar mais fios lego(macho)",
+        "desc": "",
+ "membros": [
+          "Luana"
+        ],
+        "status": "todo"
+      }
+    ],
+ "Docs": []
   },
   "programacao": {
-    "tasks": [],
-    "docs": []
-  }
-}
+ "tarefas": [
+      {
+        "id": 1793317300229,
+ "título": "Fazer a conexão do arduino com o IR",
+        "desc": "",
+ "membros": [
+          "Luana"
+        ],
+ "status": "fazendo"
+      },
+      {
+        "id": 1793319946438,
+ "título": "Melhorar a conexão com o IR",
+        "desc": "",
+ "membros": [
+          "Luana"
+        ],
+        "status": "todo"
+      },
+      {
+        "id": 1793319965631,
+ "título": "Junta o IR com os motores",
+        "desc": "",
+ "membros": [
+          "Luana"
+        ],
+        "status": "todo"
+      }
+    ],
+ "Docs": [
+      {
+        "id": 1793319697100,
+ "data": "29/10/2026, 21:21:37",
+ "membros": [
+          "Luana"
+        ],
+        "notes": "Consegui fazer a conexão do arduino com o IR do NXT, porém ainda não mostra os graus.",
+ "mídia": [
+          {
+ "tipo": "pdf",
