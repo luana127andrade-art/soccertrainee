@@ -46,6 +46,15 @@
           "Luana"
         ],
         "status": "todo"
+      },
+      {
+        "id": 1793324260088,
+        "title": "Juntar o IR com os motores",
+        "desc": "",
+        "members": [
+          "Luana"
+        ],
+        "status": "todo"
       }
     ],
     "docs": []
