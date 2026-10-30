@@ -26,15 +26,6 @@
   "mecanica": {
     "tasks": [
       {
-        "id": 1793375895195,
-        "title": "Modelagem do robô",
-        "desc": "Partes principais faltando:\nParte IR\nEletrônica\nAlça\n",
-        "members": [
-          "Lucas"
-        ],
-        "status": "todo"
-      },
-      {
         "id": 1793376034160,
         "title": "Abóbora - CAT ",
         "desc": "Fazer o desenho da abóbora no fusion ou inkscape para depois cortar na laser",
