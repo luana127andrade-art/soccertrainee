@@ -1,6 +1,17 @@
 {
   "eletronica": {
-    "tasks": [],
+    "tasks": [
+      {
+        "id": 1793324192398,
+        "title": "Fazer o circuito dos motores",
+        "desc": "",
+        "members": [
+          "Sofia",
+          "Nicoli"
+        ],
+        "status": "todo"
+      }
+    ],
     "docs": []
   },
   "mecanica": {
