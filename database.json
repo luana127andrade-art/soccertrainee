@@ -105,6 +105,15 @@
           "Luana"
         ],
         "status": "done"
+      },
+      {
+        "id": 1793392923887,
+        "title": "Fazer a lógica dos motores",
+        "desc": "",
+        "members": [
+          "Luana"
+        ],
+        "status": "todo"
       }
     ],
     "docs": [
