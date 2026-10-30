@@ -9,7 +9,7 @@
           "Sofia",
           "Nicoli"
         ],
-        "status": "done"
+        "status": "todo"
       },
       {
         "id": 1793319878086,
@@ -24,7 +24,17 @@
     "docs": []
   },
   "mecanica": {
-    "tasks": [],
+    "tasks": [
+      {
+        "id": 1793375895195,
+        "title": "Modelagem do robô",
+        "desc": "Partes principais faltando:\nParte IR\nEletrônica\nAlça\n",
+        "members": [
+          "Lucas"
+        ],
+        "status": "todo"
+      }
+    ],
     "docs": []
   },
   "programacao": {
