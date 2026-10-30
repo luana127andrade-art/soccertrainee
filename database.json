@@ -37,6 +37,15 @@
           "Luana"
         ],
         "status": "doing"
+      },
+      {
+        "id": 1793324240092,
+        "title": "Melhorar a conexão com o IR",
+        "desc": "",
+        "members": [
+          "Luana"
+        ],
+        "status": "todo"
       }
     ],
     "docs": []
