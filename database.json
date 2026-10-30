@@ -34,6 +34,15 @@
           "Nicoli"
         ],
         "status": "todo"
+      },
+      {
+        "id": 1793376107309,
+        "title": "Modelagem do robô",
+        "desc": "Modelar o robô de soccer, partes faltantes:\nParte IR\nEletrônica\nAlça",
+        "members": [
+          "Lucas"
+        ],
+        "status": "doing"
       }
     ],
     "docs": []
