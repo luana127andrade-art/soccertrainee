@@ -1,5 +1,24 @@
 {
-  "eletronica": { "tasks": [], "docs": [] },
-  "mecanica": { "tasks": [], "docs": [] },
-  "programacao": { "tasks": [], "docs": [] }
+  "eletronica": {
+    "tasks": [
+      {
+        "id": 1793579791814,
+        "title": "teste",
+        "desc": "",
+        "status": "todo",
+        "members": [
+          "Luana"
+        ]
+      }
+    ],
+    "docs": []
+  },
+  "mecanica": {
+    "tasks": [],
+    "docs": []
+  },
+  "programacao": {
+    "tasks": [],
+    "docs": []
+  }
 }
