@@ -1,16 +1,6 @@
 {
   "eletronica": {
-    "tasks": [
-      {
-        "id": 1793581194410,
-        "title": "t",
-        "desc": "",
-        "status": "todo",
-        "members": [
-          "Luana"
-        ]
-      }
-    ],
+    "tasks": [],
     "docs": []
   },
   "mecanica": {
