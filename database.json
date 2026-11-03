@@ -19,6 +19,16 @@
           "Luana"
         ],
         "status": "done"
+      },
+      {
+        "id": 1793667062476,
+        "title": "Desenhar o diagrama elétrico do robô",
+        "desc": "",
+        "status": "todo",
+        "members": [
+          "Sofia",
+          "Nicoli"
+        ]
       }
     ],
     "docs": []
