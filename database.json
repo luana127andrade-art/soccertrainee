@@ -39,6 +39,16 @@
           "Luana",
           "Sofia"
         ]
+      },
+      {
+        "id": 1793667118895,
+        "title": "Desenhar as PCBs no easyEDA",
+        "desc": "",
+        "status": "todo",
+        "members": [
+          "Sofia",
+          "Nicoli"
+        ]
       }
     ],
     "docs": []
