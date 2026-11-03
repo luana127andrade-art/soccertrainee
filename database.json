@@ -196,6 +196,15 @@
         "members": [
           "Lucas"
         ]
+      },
+      {
+        "id": 1793738062323,
+        "title": "Alça",
+        "desc": "Modelagem da alça do robô",
+        "status": "todo",
+        "members": [
+          "Lucas"
+        ]
       }
     ],
     "docs": [
