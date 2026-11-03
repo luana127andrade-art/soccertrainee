@@ -72,6 +72,13 @@
         "desc": "",
         "status": "doing",
         "members": []
+      },
+      {
+        "id": 1793729372957,
+        "title": "Partes do robô",
+        "desc": "1°arduino: motores + detector de bola\n2°arduino:Ultrassonico+detector de linha\n3°arduino:IR",
+        "status": "todo",
+        "members": []
       }
     ],
     "docs": [
