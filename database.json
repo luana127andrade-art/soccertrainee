@@ -29,6 +29,16 @@
           "Sofia",
           "Nicoli"
         ]
+      },
+      {
+        "id": 1793667092357,
+        "title": "Refazer a solda dos motores",
+        "desc": "",
+        "status": "done",
+        "members": [
+          "Luana",
+          "Sofia"
+        ]
       }
     ],
     "docs": []
