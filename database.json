@@ -82,6 +82,15 @@
           "Lucas"
         ],
         "status": "doing"
+      },
+      {
+        "id": 1793667145293,
+        "title": "Imprimir as peças do robô",
+        "desc": "",
+        "status": "todo",
+        "members": [
+          "Lucas"
+        ]
       }
     ],
     "docs": [
