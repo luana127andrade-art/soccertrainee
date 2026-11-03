@@ -178,6 +178,15 @@
         "members": [
           "Lucas"
         ]
+      },
+      {
+        "id": 1793738000025,
+        "title": "Modelagem da eletrônica",
+        "desc": "Adicionar a parte da eletrônica na modelagem do robô\n",
+        "status": "todo",
+        "members": [
+          "Lucas"
+        ]
       }
     ],
     "docs": [
