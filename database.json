@@ -86,6 +86,16 @@
         "desc": "Pintar as placas com tinta, e pedir para a laser remover as partes que eu não quero o cobre.",
         "status": "todo",
         "members": []
+      },
+      {
+        "id": 1793736084353,
+        "title": "Diagrama elêtrico do sensor ultrassônico",
+        "desc": "",
+        "status": "todo",
+        "members": [
+          "Sofia",
+          "Nicoli"
+        ]
       }
     ],
     "docs": [
