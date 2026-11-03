@@ -65,6 +65,13 @@
         "desc": "Utilização de placa de cobre e percloreto de ferro",
         "status": "todo",
         "members": []
+      },
+      {
+        "id": 1793668032305,
+        "title": "Aprender a mexer no easyEDA",
+        "desc": "",
+        "status": "todo",
+        "members": []
       }
     ],
     "docs": [
