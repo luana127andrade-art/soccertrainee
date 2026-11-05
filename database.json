@@ -366,13 +366,6 @@
         "members": [
           "Luana"
         ]
-      },
-      {
-        "id": 1793899823743,
-        "title": "Fazer a conexão do IR de lego com o ESP32",
-        "desc": "",
-        "status": "todo",
-        "members": []
       }
     ],
     "docs": [
