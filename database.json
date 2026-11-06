@@ -381,6 +381,21 @@
     ],
     "docs": [
       {
+        "id": 1793985261098,
+        "date": "06/11/2026 às 14:14",
+        "members": [
+          "Luana"
+        ],
+        "notes": "Fiz a ligação da bússola NXT LEGO\n\n",
+        "media": [
+          {
+            "name": "Bússola_NXT.txt",
+            "type": "text/plain",
+            "data": "data:text/plain;base64,I2luY2x1ZGUgPFdpcmUuaD4NCg0KLy8gRW5kZXJlw6dvIEkyQyBkZSA3IGJpdHMgZG8gSGlUZWNobmljIENvbXBhc3MgU2Vuc29yDQovLyAoTyBlbmRlcmXDp28gcGFkcsOjbyBkZSA4IGJpdHMgw6kgMHgwMSwgcXVlIGNvbnZlcnRpZG8gcGFyYSA3IGJpdHMgbm8gV2lyZS5oIMOpIDB4MDEgb3UgMHgwMiBkZXBlbmRlbmRvIGRhIGJpYmxpb3RlY2EsIA0KLy8gbWFzIG8gcmVnaXN0cmFkb3IgcGFkcsOjbyBkbyBIaVRlY2huaWMgY29zdHVtYSByZXNwb25kZXIgbm8gZW5kZXJlw6dvIDB4MDEgb3UgMHgxMS8weDQyIGRlcGVuZGVuZG8gZGEgdmVyc8Ojby4gDQovLyBWYW1vcyB1c2FyIG8gZW5kZXJlw6dvIEkyQyBwYWRyw6NvIGRlIDcgYml0cyBkbyBzZW5zb3IgSGlUZWNobmljIENvbXBhc3M6IDB4MDEpDQojZGVmaW5lIENPTVBBU1NfSTJDX0FERFIgMHgwMQ0KDQp2b2lkIHNldHVwKCkgew0KICBTZXJpYWwuYmVnaW4oOTYwMCk7DQogIFdpcmUuYmVnaW4oKTsgLy8gSW5pY2lhbGl6YSBvIGJhcnJhbWVudG8gSTJDIChTREEgbm8gQTQsIFNDTCBubyBBNSBubyBVbm8pDQogIGRlbGF5KDEwMCk7DQp9DQoNCnZvaWQgbG9vcCgpIHsNCiAgLy8gSW5pY2lhIGEgY29tdW5pY2HDp8OjbyBjb20gbyBzZW5zb3INCiAgV2lyZS5iZWdpblRyYW5zbWlzc2lvbihDT01QQVNTX0kyQ19BRERSKTsNCiAgV2lyZS53cml0ZSgweDQyKTsgLy8gRW5kZXJlw6dvIGRvIHJlZ2lzdHJhZG9yIGRlIGxlaXR1cmEgZG8gw6JuZ3Vsbw0KICBieXRlIGVycm9yID0gV2lyZS5lbmRUcmFuc21pc3Npb24oKTsNCg0KICBpZiAoZXJyb3IgPT0gMCkgew0KICAgIC8vIFNvbGljaXRhIDIgYnl0ZXMgZGUgZGFkb3MgKEhpZ2ggQnl0ZSBlIExvdyBCeXRlKQ0KICAgIFdpcmUucmVxdWVzdEZyb20oQ09NUEFTU19JMkNfQUREUiwgMik7DQogICAgDQogICAgaWYgKFdpcmUuYXZhaWxhYmxlKCkgPj0gMikgew0KICAgICAgYnl0ZSBoaWdoQnl0ZSA9IFdpcmUucmVhZCgpOw0KICAgICAgYnl0ZSBsb3dCeXRlID0gV2lyZS5yZWFkKCk7DQogICAgICANCiAgICAgIC8vIEPDoWxjdWxvIGRvIMOibmd1bG8gZW0gZ3JhdXMgKDAgYSAzNTkpDQogICAgICBpbnQgaGVhZGluZyA9IChoaWdoQnl0ZSAqIDIpICsgbG93Qnl0ZTsNCg0KICAgICAgU2VyaWFsLnByaW50KCJBbmd1bG86ICIpOw0KICAgICAgU2VyaWFsLnByaW50KGhlYWRpbmcpOw0KICAgICAgU2VyaWFsLnByaW50bG4oIsKwIik7DQogICAgfQ0KICB9IGVsc2Ugew0KICAgIFNlcmlhbC5wcmludGxuKCJFcnJvOiBTZW5zb3IgbmFvIGVuY29udHJhZG8gb3UgY29uZXhhbyBJMkMgZmFsaG91LiIpOw0KICB9DQoNCiAgZGVsYXkoMjAwKTsNCn0="
+          }
+        ]
+      },
+      {
         "id": 1793666951216,
         "date": "02/11/2026 às 21:49",
         "members": [
