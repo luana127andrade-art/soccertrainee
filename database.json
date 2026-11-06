@@ -93,6 +93,15 @@
     ],
     "docs": [
       {
+        "id": 1793985675398,
+        "date": "06/11/2026 às 14:21",
+        "members": [
+          "Luana"
+        ],
+        "notes": "Fiz a conexão da bússola.\n\nfio amarelo-A5\nfio Azul-A4\nfio vermelho-gnd\nfio preto-gnd\nfio verde-5V\nfio branco-9V/ nem conectei\n",
+        "media": []
+      },
+      {
         "id": 1793895962547,
         "date": "05/11/2026 às 13:26",
         "members": [
