@@ -98,6 +98,16 @@
         "members": [
           "Luana"
         ]
+      },
+      {
+        "id": 1794334247539,
+        "title": "Partes robô (diagrama)",
+        "desc": "1° arduino: motores \n2° arduino: ultras + ldr\n3° arduino: ir + bússola ",
+        "status": "todo",
+        "members": [
+          "Sofia",
+          "Nicoli"
+        ]
       }
     ],
     "docs": [
