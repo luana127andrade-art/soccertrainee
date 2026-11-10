@@ -98,6 +98,16 @@
         "members": [
           "Luana"
         ]
+      },
+      {
+        "id": 1794335153176,
+        "title": "Partes robô (diagrama)",
+        "desc": "1° arduino: 4 motores, 2 baratinhas, ldr e led;\n2° arduino: 4 ultras, 4 ldrs e 5 leds;\n3° arduino: ir e bússola.",
+        "status": "todo",
+        "members": [
+          "Sofia",
+          "Nicoli"
+        ]
       }
     ],
     "docs": [
