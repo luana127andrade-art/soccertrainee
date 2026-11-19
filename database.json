@@ -127,6 +127,15 @@
           "Sofia",
           "Nicoli"
         ]
+      },
+      {
+        "id": 1795107200287,
+        "title": "Fazer a PCB dos IR+Bússola",
+        "desc": "",
+        "status": "done",
+        "members": [
+          "Luana"
+        ]
       }
     ],
     "docs": [
