@@ -148,7 +148,7 @@
         "id": 1795551140843,
         "title": "1 ARDUINO NANO",
         "desc": "2 L293D, Bússola, IR, leds, 6 fototransistores, regulador de tensão(se quiser mais fototransistores, o multiplexador também).",
-        "status": "todo",
+        "status": "doing",
         "members": [
           "Sofia"
         ]
