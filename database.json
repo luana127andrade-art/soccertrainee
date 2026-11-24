@@ -143,6 +143,15 @@
         "desc": "1°arduino nano: 2 L293D, Bússola, IR, leds, 6 fototransistores, regulador de tensão(se quiser mais fototransistores, o multiplexador também)\n2°arduino nano: 4 ultrassônicos",
         "status": "doing",
         "members": []
+      },
+      {
+        "id": 1795551140843,
+        "title": "1 ARDUINO NANO",
+        "desc": "2 L293D, Bússola, IR, leds, 6 fototransistores, regulador de tensão(se quiser mais fototransistores, o multiplexador também).",
+        "status": "todo",
+        "members": [
+          "Sofia"
+        ]
       }
     ],
     "docs": [
