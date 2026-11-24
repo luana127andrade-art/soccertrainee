@@ -340,7 +340,7 @@
         "id": 1793738032197,
         "title": "Motores do robô ",
         "desc": "Modelagem dos motores como juntas para girar as rodas",
-        "status": "doing",
+        "status": "done",
         "members": [
           "Lucas"
         ]
