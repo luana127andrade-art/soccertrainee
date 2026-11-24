@@ -136,6 +136,13 @@
         "members": [
           "Luana"
         ]
+      },
+      {
+        "id": 1795539018432,
+        "title": "Partes do robô",
+        "desc": "1°arduino nano: 2 L293D, Bússola, IR, leds, 6 fototransistores, regulador de tensão(se quiser mais fototransistores, o multiplexador também)\n2°arduino nano: 4 ultrassônicos",
+        "status": "doing",
+        "members": []
       }
     ],
     "docs": [
